@@ -1,0 +1,18 @@
+pathToDir,pathToArchive,DateTime,Status
+/home/ugbd/Python-3.9.0,/home/ugbd,2021-11-14 17:50:34.560847,success
+/home/ugbd/Python-0,,2021-11-14 18:11:21.034942,fail
+/home/ugbd/Python-3.9.0,,2021-11-14 18:15:33.314093,fail
+/home/ugbd/Python-3.9.0,,2021-11-14 18:16:47.338151,fail
+/home/ugbd/Python-3.9.0,,2021-11-14 18:17:24.886116,fail
+/home/ugbd/Python-3.9.0,,2021-11-14 18:26:31.382910,fail
+/home/ugbd/Python-3.9.0,,2021-11-14 18:42:27.085383,fail
+/home/ugbd/Python-3.9.0,,2021-11-14 18:43:55.638249,fail
+,,2021-11-14 18:44:56.165676,fail
+,,2021-11-14 18:47:57.870760,fail
+/home/ugbd/Python-3.9.0,/home/ugbd,2021-11-14 18:49:40.930491,fail
+/home/ugbd/Python-3.9.0,/home/ugbd,2021-11-14 18:51:18.593880,fail
+/home/ugbd/Python-3.9.0,/home/ugbd,2021-11-14 18:55:38.816891,fail
+/home/ugbd/Python-3.9.0,/home/ugbd,2021-11-14 19:00:23.731988,success
+/home/ugbd/Python-3.9.0,/home/ugbd,tar.gz,2021-11-14 19:09:50.852679,success
+/home/ugbd/Python-3.9.0,/home/ugbd,pop,2021-11-14 19:10:48.399010,fail
+/home/ugbd/Python-3.9.0,/home/ugbd,tar.gz,2021-11-14 19:35:00.919458,success
